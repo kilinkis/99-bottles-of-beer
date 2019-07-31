@@ -14,3 +14,7 @@ I'll quote WikiPedia here:
 
 A funnier and less verbose version of the original song. Also, probably the best song ever written:  
 https://open.spotify.com/track/3FdZmVHgU6Kpy58bZNJRkC?si=sxswwlPaSYOgmu5-CM6LnQ
+
+#### How do I run this??
+
+Just paste the code in your browser's terminal, or, if you're feeling lazy, just click [here](https://jsbin.com/xemovewaca/edit?js,console), but the fancy colors don't work on JSBIN.
