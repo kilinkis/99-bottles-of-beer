@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">🍻🍻🍻 Lyrics for "99 Bottles of Beer" 🍻🍻🍻</h1>
+# Lyrics for "99 Bottles of Beer" 🍻🍻🍻
 
 This little javascript will render the lyrics for the famous folk song ["99 Bottles of Beer"](https://en.wikipedia.org/wiki/99_Bottles_of_Beer) right in your console!  
 This song is often refered in Computer Science courses.  
